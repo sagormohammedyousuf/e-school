@@ -1,5 +1,5 @@
 body{
-    font-family: 'Roboto', sans-serif;
+    font-family: system-ui, system-ui, sans-serif;
    
 }
 
@@ -58,7 +58,48 @@ body{
 .card{
     border: none;
 }
+/* .card-img-top , card{
+    height: 400px;
+    width: 500px;
+} */
 
-    .card-img-top{
-        
-    }
+.col-sm-4{
+    background-color: #ffffff;
+}
+
+.btn{
+    background-color:#28a745;
+    color: white;
+    font-weight:500;
+    border-radius: 27px;
+    -webkit-border-radius: 27px;
+    -moz-border-radius: 27px;
+    -ms-border-radius: 27px;
+    -o-border-radius: 27px;
+}
+
+.pimg img{
+    width: 20px;
+    height: 20px;
+}
+.pimg{
+    margin-top: 9px;
+    font-weight: 300;
+    font-size: larger;
+    font-variant:unset;
+    
+}
+
+.img img{
+    height: 150px;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+     
+}
+.bg{
+    margin-top: 50px;
+    background-color: rgb(219, 219, 219);
+}
