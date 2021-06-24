@@ -1,0 +1,64 @@
+body{
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+#home{
+    background-color: rgb(234, 255, 249);
+}
+
+
+.btn-sign{
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+.logo{
+    height: 80px;
+    width: 250px;
+}
+
+#navbarNav{
+    font-size: 20px;
+   
+} 
+ 
+
+/* home-section */
+
+.text-orange{
+    color: orange;
+}
+
+.btn-lg{
+    border-radius: 27px;
+    -webkit-border-radius: 27px;
+    -moz-border-radius: 27px;
+    -ms-border-radius: 27px;
+    -o-border-radius: 27px;
+}
+
+.card img{
+    height: 120px;
+    width: 120px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: auto;
+        
+
+
+  
+
+}
+
+.card{
+    border: none;
+}
+
+    .card-img-top{
+        
+    }
